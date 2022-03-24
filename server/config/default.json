@@ -1,0 +1,4 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://gorsaroyan:datasubtesttask@cluster0.a8q5v.mongodb.net/cardOperation?retryWrites=true&w=majority"
+}
